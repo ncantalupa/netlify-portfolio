@@ -16,7 +16,7 @@ sections:
     title: Nick Cantalupa
     subtitle: >-
       I am a recent graduate from Northeastern University with a Masters in Data
-      S
+      Science.
     styles:
       self:
         height: auto
