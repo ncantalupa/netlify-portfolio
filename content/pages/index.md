@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Nick Cantalupa
-    subtitle: I am a
+    subtitle: >-
+      I am a recent graduate from Northeastern University with a Masters in Data
+      S
     styles:
       self:
         height: auto
