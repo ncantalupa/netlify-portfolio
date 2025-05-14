@@ -35,12 +35,6 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/1A360923-3EAE-4492-89CB-04C41DD4285B.jpeg
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
